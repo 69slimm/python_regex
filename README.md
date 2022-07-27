@@ -5,3 +5,10 @@ repository ini bertujuan untuk membagi hasil belajar saya tentang regex mengguna
 
 ***ENGLISH***
 This repository aims to share the results of my learning about regex using the python language. The focus of my study in this repository is in terms of data manipulation in a text. Hopefully in my study this can help friends in difficulties for data manipulation using python. *HOLY COW*
+
+
+***EMAIL***
+**getpaidman58@gmail.com**
+
+***INSTAGRAM***
+**@segumpal_dna**
